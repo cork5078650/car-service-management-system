@@ -1,2 +1,3 @@
-# car-service-management-system
-services of the cars
+event management
+manages the events
+
